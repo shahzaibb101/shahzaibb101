@@ -25,9 +25,14 @@ Most of my work is client and compliance based, so it lives in private repositor
 
 - **[Alpro Pharmacy](https://alpropharmacy.com):** Omnichannel e-commerce and ePharmacy platform for one of Malaysia's largest pharmacy chains. Full-stack rebuild on Next.js, AWS, and Supabase.
 - **[Elixo AI](https://elixo.ai):** AI platform that runs marketing and sales through a set of specialized agents. Full-stack build on Next.js.
-- **[Band Breeze](https://bandbreeze.com):** No-code website builder for musicians, with in-house video and AI audio tools. Full-stack build on React with a Python and FastAPI backend.
+- - **[Kinetic Kollective](https://kinetickollective.com):** Website for an early-stage crypto investment group, built on a custom, hand-coded theme.
+- **[Educare](https://educarenow.org):** Donation and program platform for an education nonprofit working across three countries. Full-stack build on WordPress with custom donation and recurring giving.
 
 More work is on my [portfolio](https://shahzaibshakeel.com).
+
+### Building
+
+**[QuickGrid.ai](https://quickgrid.ai)** is my own product. It is an AI tool that designs Instagram grids and gallery layouts so a whole feed reads as one connected story instead of nine separate posts. Built on React and Tailwind with an AI backend. Currently in private beta.
 
 ### Contact
 
